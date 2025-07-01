@@ -22,3 +22,6 @@ This is a console-based application built using **C++** that performs **multiple
 - **C++ vector, I/O, math, and formatting**
 
 ## 📈 Example Output
+Regression Equation: Y = 21234.22 + 1.23 * X1 + 0.95 * X2 + 0.77 * X3
+Predicted Y (Total Tourists): 54212.9
+MAPE: 3.74%
